@@ -1,0 +1,28 @@
+PSTAT_START
+name= test1, pid= 4
+start= 118, duration= 1, priority= 0
+start= 127, duration= 2, priority= 1
+start= 137, duration= 8, priority= 2
+start= 153, duration= 8, priority= 2
+start= 169, duration= 8, priority= 2
+start= 185, duration= 8, priority= 2
+start= 201, duration= 8, priority= 2
+PSTAT_END
+PSTAT_START
+name= test1, pid= 3
+start= 114, duration= 1, priority= 0
+start= 115, duration= 0, priority= 1
+start= 115, duration= 0, priority= 1
+start= 115, duration= 0, priority= 1
+start= 115, duration= 0, priority= 1
+start= 116, duration= 0, priority= 1
+start= 116, duration= 0, priority= 1
+start= 116, duration= 2, priority= 1
+start= 119, duration= 8, priority= 2
+start= 129, duration= 8, priority= 2
+start= 145, duration= 8, priority= 2
+start= 161, duration= 8, priority= 2
+start= 177, duration= 8, priority= 2
+start= 193, duration= 8, priority= 2
+start= 209, duration= 8, priority= 2
+PSTAT_END
